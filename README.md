@@ -10,5 +10,5 @@ Examples:
 
 ![squirrel](tiere/eichhorn.png)
 ![duck](tiere/ente.png)
-![head](IPOD-nano-interaction/kopf.png)
+![head](leute/kopf.png)
 ![finger](IPOD-nano-interaction/finger-pan-small.png)
