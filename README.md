@@ -8,7 +8,8 @@ Examples:
 ![squirrel](tiere/eichhorn.png)
 ![duck](tiere/ente.png)
 ![head](leute/kopf.png)
-![finger](IPOD-nano-interaction/finger-pan-small.png)
+![finger](landschaft/Kaktus.png)
+![finger](landschaft/sun.png)
 
 License
 ------
