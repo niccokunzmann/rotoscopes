@@ -3,12 +3,15 @@ Rotoscopes as svg grafics
 
 I use [inkscape](http://inkscape.org/download/?lang=de) to create them.
 
-They are saved as svg and can be used freely = embedded, reused, placed somewhere.
-Please tell me if you use them with a comment below the file.
-
 Examples:
 
 ![squirrel](tiere/eichhorn.png)
 ![duck](tiere/ente.png)
 ![head](leute/kopf.png)
 ![finger](IPOD-nano-interaction/finger-pan-small.png)
+
+License
+------
+
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+These works are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
